@@ -1,5 +1,5 @@
 <img src="assets/capspeech_logo.png">
-<h3  align="center">🧢 CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech</h3>
+<h3  align="center">🧢 CapSpeech: nabling Downstream Applications in Style-Captioned Text-to-Speech</h3>
 
 <p align="center">
   <a href="https://arxiv.org/abs/2506.02863"><strong>📄 Paper</strong></a> &nbsp;|&nbsp;
