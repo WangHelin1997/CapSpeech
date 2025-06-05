@@ -1,0 +1,71 @@
+model_name: finetune_agenttts
+
+model:
+  dim: 1024
+  depth: 24
+  heads: 16
+  ff_mult: 2
+  text_dim: 512
+  # disable convnext in text embedding
+  conv_layers: 0
+  # phoneme vocab size
+  text_num_embeds: 200
+  mel_dim: 100
+  t5_dim: 1024
+  clap_dim: 512
+  # disable it on a100
+  use_checkpoint: false
+  qk_norm: true
+  skip: true
+
+mel:
+  target_sample_rate: 24000
+  n_mel_channels: 100
+  hop_length: 256
+
+opt:
+  learning_rate: 2.0e-05
+  beta1: 0.9
+  beta2: 0.999
+  weight_decay: 0.01
+  adam_epsilon: 1.0e-08
+  grad_clip: 1.0
+  batch_size: 64
+  accumulation_steps: 1
+  # mask_range: [0.7, 1.0]
+  drop_spk: 0.1
+  drop_text: 0.5
+
+  lr_scheduler:
+    warmup_steps: 250
+    decay_steps: 10000
+    end_factor: 1.0e-02
+
+data:
+  trainset:
+    dataset_dir: "" # your processed path
+    clap_emb_dir: "./data/clap_embs/"
+    t5_folder_name: "t5"
+    phn_folder_name: "g2p"
+    manifest_name: "manifest"
+    json_name: "jsons"
+    dynamic_batching: true
+    text_pad_token: -1
+    audio_pad_token: 0.0
+    split: "train_AgentDB"
+    sr: 24000
+    norm_audio: false
+
+  valset:
+    dataset_dir: "" # your processed path
+    clap_emb_dir: "./data/clap_embs/"
+    t5_folder_name: "t5"
+    phn_folder_name: "g2p"
+    manifest_name: "manifest"
+    json_name: "jsons"
+    dynamic_batching: true
+    text_pad_token: -1
+    audio_pad_token: 0.0
+    split: "test_AgentDB"
+    sr: 24000
+    norm_audio: false

@@ -1,0 +1,16 @@
+datasets[audio]
+https://github.com/marianne-m/brouhaha-vad/archive/main.zip
+penn
+g2p
+demucs
+transformers
+bitsandbytes
+git+https://github.com/sarulab-speech/UTMOSv2.git
+-U openai-whisper
+jiwer
+numpy==1.26.4
+audeer
+audonnx
+laion_clap
+numpy==1.26.4
+onnxruntime
