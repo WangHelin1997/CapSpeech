@@ -11,7 +11,7 @@
 
 <p align="center">
   <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=WangHelin1997.CapSpeech" alt="Visitor Statistics" /> -->
-  <img src="https://img.shields.io/github/stars/WangHelin1997/CapSpeech?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/WangHelin1997/CapSpeech" alt="GitHub Stars" />
   <img alt="Static Badge" src="https://img.shields.io/badge/license-CC%20BY--NC%204.0-blue.svg" />
 </p>
 
