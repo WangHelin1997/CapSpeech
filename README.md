@@ -35,7 +35,7 @@
 ## Usage
 ### ⚡ Quick Start  
 Explore CapSpeech directly in your browser — no installation needed.  
-- 🚀 Live Demo: [🤗 Spaces](https://huggingface.co/spaces/OpenSound/CapSpeech)
+- 🚀 Live Demo: [🤗 Spaces](https://huggingface.co/spaces/OpenSound/CapSpeech-TTS)
 
 ### 🛠️ Local Deployment  
 Install and Run CapSpeech locally.  
