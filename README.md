@@ -6,7 +6,7 @@
   <a href="https://wanghelin1997.github.io/CapSpeech-demo/"><strong>🌐 Project Page</strong></a> &nbsp;|&nbsp;
   <a href="https://huggingface.co/datasets/OpenSound/CapSpeech"><strong>🗂 Dataset</strong></a> &nbsp;|&nbsp;
   <a href="https://huggingface.co/OpenSound/CapSpeech-models/"><strong>🤗 Models</strong></a> &nbsp;|&nbsp;
-  <a href="https://huggingface.co/spaces/OpenSound/CapSpeech/"><strong>🚀 Live Demo</strong></a>
+  <a href="https://huggingface.co/spaces/OpenSound/CapSpeech-TTS/"><strong>🚀 Live Demo</strong></a>
 </p>
 
 <p align="center">
