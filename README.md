@@ -2,11 +2,11 @@
 <h3  align="center">🧢 CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech</h3>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2506.02863"><strong>📄 Paper</strong></a> &nbsp;|&nbsp;
-  <a href="https://wanghelin1997.github.io/CapSpeech-demo/"><strong>🌐 Project Page</strong></a> &nbsp;|&nbsp;
-  <a href="https://huggingface.co/datasets/OpenSound/CapSpeech"><strong>🗂 Dataset</strong></a> &nbsp;|&nbsp;
-  <a href="https://huggingface.co/OpenSound/CapSpeech-models/"><strong>🤗 Models</strong></a> &nbsp;|&nbsp;
-  <a href="https://huggingface.co/spaces/OpenSound/CapSpeech-TTS/"><strong>🚀 Live Demo</strong></a>
+  📄 <a href="https://arxiv.org/abs/2506.02863"><strong>Paper</strong></a> &nbsp;|&nbsp;
+  🌐 <a href="https://wanghelin1997.github.io/CapSpeech-demo/"><strong>Project Page</strong></a> &nbsp;|&nbsp;
+  🗂 <a href="https://huggingface.co/datasets/OpenSound/CapSpeech"><strong>Dataset</strong></a> &nbsp;|&nbsp;
+  🤗 <a href="https://huggingface.co/OpenSound/CapSpeech-models/"><strong>Models</strong></a> &nbsp;|&nbsp;
+  🚀 <a href="https://huggingface.co/spaces/OpenSound/CapSpeech-TTS/"><strong>Live Demo</strong></a>
 </p>
 
 <p align="center">
