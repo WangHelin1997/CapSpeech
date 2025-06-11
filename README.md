@@ -30,7 +30,7 @@
 
 5. **AgentTTS**: text-to-speech synthesis for chat agent
 
-[Video](https://github.com/user-attachments/assets/13707602-c43c-447d-9f0b-35c0af149599)
+[Video](https://github.com/user-attachments/assets/b53b7035-d759-43f3-ab80-0ab26748052c)
 
 ## Usage
 ### ⚡ Quick Start  
