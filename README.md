@@ -30,12 +30,7 @@
 
 5. **AgentTTS**: text-to-speech synthesis for chat agent
 
-
-<video width="640" controls>
-  <source src="https://github.com/WangHelin1997/CapSpeech/releases/download/v0.1/capspeech.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[Video](https://github.com/user-attachments/assets/13707602-c43c-447d-9f0b-35c0af149599)
 
 ## Usage
 ### ⚡ Quick Start  
