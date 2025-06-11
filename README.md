@@ -30,7 +30,8 @@
 
 5. **AgentTTS**: text-to-speech synthesis for chat agent
 
-[Video](https://github.com/user-attachments/assets/13707602-c43c-447d-9f0b-35c0af149599)
+# [Video](https://github.com/user-attachments/assets/13707602-c43c-447d-9f0b-35c0af149599)
+[Video](https://github.com/WangHelin1997/CapSpeech-demo/blob/main/static/video/capspeech.mp4)
 
 ## Usage
 ### ⚡ Quick Start  
